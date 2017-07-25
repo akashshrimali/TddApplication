@@ -8,5 +8,5 @@ Given t minutes, write a java program that reads the text file and ﬁnds out th
 
 Solution:
 #Used one method solve to traverse in the input file data.
-#Found maximum satisfaction for Smart Guy Gordon Ramsey.
+#Found maximum satisfaction for Smart Guy Gordon Ramsey. [Result:238103]
 #Loved to code.
